@@ -21,7 +21,7 @@ public class StudentCourseEnrollmentTests {
         // =========================
         // STUDENT TESTS
         // =========================
-
+        // HI
         // studentDAO.addStudent(new Student("John", "john@gmail.com", 21));
 
 //        List<Student> students = studentDAO.getAllStudents();
