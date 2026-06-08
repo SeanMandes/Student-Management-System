@@ -1,12 +1,12 @@
-package backend.test;
+package main.java.backend.test;
 
-import backend.dao.CourseDAO;
-import backend.dao.EnrollmentDAO;
-import backend.dao.InstructorDAO;
-import backend.dao.StudentDAO;
-import backend.dao.UserDAO;
-import backend.security.AuthService;
-import backend.service.ReportService;
+import main.java.backend.dao.CourseDAO;
+import main.java.backend.dao.EnrollmentDAO;
+import main.java.backend.dao.InstructorDAO;
+import main.java.backend.dao.StudentDAO;
+import main.java.backend.dao.UserDAO;
+import main.java.backend.security.AuthService;
+import main.java.backend.service.ReportService;
 
 public class StudentCourseEnrollmentTests {
     private static final StudentDAO studentDAO = new StudentDAO();
